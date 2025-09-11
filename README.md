@@ -1,6 +1,6 @@
 # Claude on GCP
 
-This repository contains examples and tutorials for using Anthropic's Claude 3 models on Google Cloud Platform (GCP) through Vertex AI.
+This repository contains examples and tutorials for using Anthropic's Claude models on Google Cloud Platform (GCP) through Vertex AI.
 
 ## 🌟 Overview
 
